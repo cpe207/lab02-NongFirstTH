@@ -1,44 +1,11 @@
-.text-content{
-    text-align: center;
-}
-a:link, a:visited{
-    background-color: #f44336;
+a:link, a:visited {
+    background-color: rgb(40, 38, 38);
     color: white;
     padding: 14px 25px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-  }
-.pho{
-    margin-left:auto;
-    margin-right: auto;
-    margin-top: 10px;
-    display: block;
-    width:120px;
-    height:160px;
-}
-.center-header {
-    color: rgb(218, 114, 10);
-    text-align: center;
-    font-style: italic;
-    text-decoration: underline;
-    font-size: 30px;
-  }
-  
-  .skill-container {
-    border: solid rgb(210, 140, 140);
-    background-color: rgba(210, 140, 140, 0.352);
-    width: 500px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 10px;
-    margin-top: auto;
-    padding: 8px;
-  }
-  
-  .skill-container > h3 {
-    color: rgb(133, 69, 68);
-    font-size: 25px;
-    font-style: italic;
-  }
-  
+ }
+a:hover, a:active {
+    background-color: rgb(108, 111, 80);
+ }
